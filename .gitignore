@@ -1,0 +1,5 @@
+torch/
+mnist_data/
+target/
+logs/
+temp/
